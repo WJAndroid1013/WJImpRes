@@ -1,0 +1,444 @@
+/**********************3.5************学以致用*******************/
+
+日报
+
+提交代码到github
+
+
+
+bootstrap学习完{官网}
+
+
+layui的日期控件（f）
+
+layui后台框架（f）
+
+js的map（f）
+
+github+git复习（f）
+--提交代码（f）
+
+复习github文档（f）
+--练习github（f）
+
+git（f）
+--add（f）
+--update(f)
+--del(f)
+将项目传到github上（f）
+
+将重要项目传到github
+
+
+Android离线开发（maven库开发）
+
+WLPRO
+
+学习PHP
+
+研究springboot
+
+nio
+
+liunx
+
+
+spring切面编程
+
+了解mybatis【防止sp用mybatis】
+
+
+
+/*************************************************************************/
+翻墙
+锻炼业务理解能力
+
+git svn使用
+
+ + (Math.random() * 1000 | 0)
+content: '内容' + (Math.random() * 1000 | 0),
+
+
+
+花生壳+svn服务器【ping成功后，可以将公司电脑上积累的东西上传svn，再家里进行比对
+java--注解[自定义]
+http://blog.csdn.net/hbcui1984/article/details/4735487
+
+
+
+
+熟悉业务需求（w）
+
+
+
+/*************************toget*******************************/
+分布式
+
+网络DNS+子网掩码
+
+复习oracle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+学习spring  18集
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+
+egret
+
+热部署
+jrebel
+
+	
+	
+
+/* .wj-div {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	/* margin: 0 0 0 0; */ width : 100px;
+	height: 50px;
+	background: #0000ff;
+	width: 100px
+} */
+
+需求：android 扫图片，读文字
+
+contentType:'application/json;charset=utf-8',
+
+想法：将自己学习+总结的东西，创建成一个网站
+架构：
+sql：mysql
+=======================================================================
+
+SprignMVC+Mybatis学习到day2
+学习到day2
+ 
+ectd需求：
+ectd@192.168.16.208:1521/orcl
+
+
+
+可以使用BASE64编码格式
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot">
+
+
+
+
+session.setAttribute("rand" , sRand);
+
+
+使用ajax显示流里面的验证码
+
+
+心跳
+心跳包原理：
+http://blog.csdn.net/bless2015/article/details/52680220
+
+
+研究蓝牙
+
+Android开发/安卓/NDK/架构/React Native/性能优化
+学习h5框架---》开发ios
+
+反过来，手机监控电脑
+http://download.csdn.net/detail/zhangamxqun/7885321
+
+
+
+SpringMVC:+ibeans+footstrop
+http://bbs.csdn.net/topics/390713163
+
+
+
+
+
+构造自己的网站
+
+http://bbs.csdn.net/topics/390906440
+
+
+你们解析html内容 用什么 库
+jsoup
+
+
+混淆代码，找混淆规则
+
+把蓝牙编程，当成数据库编程
+
+
+学习mvp开发模式
+
+分包
+
+
+继续菜鸟教程 剩下h5的部分
+
+
+
+
+
+
+
+
+
+
+
+自定义布局
+
+------------------------------------------------------------------------------------------------------------->
+
+
+swift教程：
+http://www.runoob.com/swift/swift-tutorial.html（学到下表脚本）
+
+
+
+
+
+
+
+2.混淆代码
+http://blog.csdn.net/h183288132/article/details/50622976
+
+
+
+
+------------------------------------------------------------------------------------------》
+秀源码
+
+腾讯异常捕获
+https://bugly.qq.com/v2/workbench/create/517205848
+
+MeLiveActvity---》弹出滚动view
+
+classpath 'com.android.tools.build:gradle:1.5.0'
+
+学习
+http://www.open-open.com/lib/view/open1450669570792.html
+
+
+
+
+svn：
+https://192.168.20.208/svn/SYGSAPP
+wangj
+wangj
+
+
+
+公司网
+http://www.taxsoftware.com.cn/TSERP/
+账号WJ1密码1
+
+
+
+classpath 'com.android.tools.build:gradle:1.5.0'
+distributionUrl=https\://services.gradle.org/distributions/gradle-2.10-all.zip
+
+
+       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com 
+
+主分辨率：1280*720
+
+sha1：
+70:D7:E1:88:96:50:32:4B:CD:A8:59:9B:70:93:07:C2:52:C6:76:BE
+
+
+wjcsdn姚班长
+396356728@qq.com    yaorenhong123
+
+ style="?android:attr/progressBarStyleHorizontal"
+
+
+adobe dw
+密码：WANGJIE123s
+
+朋友 你好 今天逛博客 偶然发现hongyang大神也写了个修改主题的demo，你可以看下
+https://github.com/hongyangAndroid/ChangeSkin
+
+//序列化表单元素，返回json数据  
+var params = $("#userForm").serializeArray();  
+
+SpringMVC上传文件：
+赵煜:
+http://www.cnblogs.com/fjsnail/p/3491033.html
+赵煜:
+上传什么的就用springmvc自带的吧~
+
+
+
+各部门领导及各位同事，从4月开始，所有员工的加班申请（含试用期员工）一律在OA上填写提出，
+人事部将取消纸质单据，请大家关注！同时再次提醒大家，为了保证考勤数据的准确性，
+加班信息需员工本人及其组长同时在OA里填写，这样系统才会有有效数据，
+请各位组长务必在每月10日前及时检查上个月部门员工加班信息并审核，谢谢配合！
+
+
+3argexb63ulze
+
+
+钱腾飞
+13182743412
+qtf1992
+
+oa项目：
+https://192.168.16.208/svn/TSOA/trunk
+
+
+天眼查
+https://192.168.16.208/svn/NSCT/trunk
+com.tsoft.nsct.nsctapp
+
+
+postman账号：
+wangshengjie
+
+  
+  select t.ffilename
+  ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=1) as num101 --选案
+   ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=1)  num102 --选案已选中数量
+            
+      ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=2) as num201 --稽查
+   ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=2)  num202 --稽查已选中数量
+            
+            
+          ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=3) as num301 --审理
+   ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=3)  num302 --审理已选中数量
+            
+            
+              ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=4) as num401 --执行
+   ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=4)  num402 --执行已选中数量            
+            
+   from T_EVIDENCE  t
+  where t.fcaseid=6
+  
+  
+  
+  select * from p_auxinfo where  p_auxinfo.fauxtype=5 ;
+
+  
+S_DEPARTMENT
+//		{FONLINEPWD=, FPASSWORD=C4:CA:42:38:A0:B9:23:82:0D:CC:50:9A:6F:75:84:9B, FCODE=ZS01, FLOGINCODE=ZS01, FMOBILE=, FDATARANGE=1, FISSTOP=0, FNAME=张三, FDEPTCODE=1, FORGCODE=1}
+  
+ECTD:
+https://192.168.16.208/svn/ECTD/TsFrame
+
+
+公司邮箱密码：
+1234@abc
+wangjie@taxsoft.cn  邮箱密码是1234@abc
+
+CETD查询类型：
+select * from p_auxtype;
+
+
+新的i8',
+
+ajax：
+contentType:'application/json;charset=utf-8',
+
+ectdoracle：
+ectd
+ected
+192.168.20.208:1521/orcl
+
+192.168.0.4:1521/orl
+Normal
+
+USER-20170216-4
+
+
+86号：
+
+B3 SVN：
+https://192.168.20.208/svn/B3_APP/B3App
+
+wjoracle:
+127.0.0.1:1521/wjorcl
+scott
+tiger
+
+
+wjectd用到的table：
+S_CASE ；
+p_auxinfo
+p_auxtype
+T_EVIDENCETYPE：证据环节
+T_EVIDENCE
+s_model
+
+
+at 23:00 shutdown -s
+
+bug管理：
+http://192.168.20.205:8088
+这是JIRA 外网访问地址，连公司wifi 就能访问，最好用谷歌浏览器
+王先生 2017/6/26 10:21:36
+好！
+Caim 2017/6/26 10:21:42
+你的用户名 wangjie 密码 wangjie
+
+
+是的，因为是专版，所以没有另开新项目，都用影响版本的版本号区分
+后缀有“_SH”的，就是ECTD
+

@@ -1,0 +1,8 @@
+
+iframe强制刷新：
+$("#iframe_todo").attr("src", $("#iframe_todo").attr('src'));
+
+
+html引入html
+<iframe name="content_frame" marginwidth=0 marginheight=0 width=100% height=90% src="index.html" frameborder=0 id="myIframe"></iframe>
+		
