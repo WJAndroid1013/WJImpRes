@@ -1,29 +1,30 @@
-/**********************3************学以致用*******************/
+/**********************2.5************学以致用********日报***********/
 
-复习昨晚积累的bootstrap
+OA客户端项目重构
+--请假
 
 
-bootstrap学习完（f）
 
-layui的日期控件（f）
+bootstrap复习
+--徽章 badge（f）
+--list（f）
+--响应式嵌入内容（f） embed
+--面板（f）
+--分页（f）
+--进度条（f）
+--媒体对象列表（f）
+--well（f）
+--警告框（f）
+--缩略图（f）
+--路径导航（f）
 
-layui后台框架（f）
 
-js的map（f）
+js的map修改（f）
 
-github+git复习（f）
---提交代码（f）
 
-复习github文档（f）
---练习github（f）
 
-git（f）
---add（f）
---update(f)
---del(f)
-将项目传到github上（f）
+上传github
 
-将重要项目传到github
 
 
 Android离线开发（maven库开发）
@@ -37,6 +38,8 @@ WLPRO
 nio
 
 liunx
+
+mysql
 
 
 spring切面编程
