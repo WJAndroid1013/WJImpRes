@@ -1,42 +1,42 @@
-/**********************2.5************Ñ§ÒÔÖÂÓÃ********ÈÕ±¨***********/
+/************xxx**********2.5************å­¦ä»¥è‡´ç”¨********æ—¥æŠ¥***********/
 
-OA¿Í»§¶ËÏîÄ¿ÖØ¹¹
---Çë¼ÙÄ£¿é
---ÈÕÖ¾Ä£¿é
---Ïú¼ÙÄ£¿é
-
-
-Ñ§Ï°liunx
+OAå®¢æˆ·ç«¯é¡¹ç›®é‡æ„
+--è¯·å‡æ¨¡å—
+--æ—¥å¿—æ¨¡å—
+--é”€å‡æ¨¡å—
 
 
-bootstrap¸´Ï°
---»ÕÕÂ badge£¨f£©
---list£¨f£©
---ÏìÓ¦Ê½Ç¶ÈëÄÚÈİ£¨f£© embed
---Ãæ°å£¨f£©
---·ÖÒ³£¨f£©
---½ø¶ÈÌõ£¨f£©
---Ã½Ìå¶ÔÏóÁĞ±í£¨f£©
---well£¨f£©
---¾¯¸æ¿ò£¨f£©
---ËõÂÔÍ¼£¨f£©
---Â·¾¶µ¼º½£¨f£©
-
-jsµÄmapĞŞ¸Ä£¨f£©
+å­¦ä¹ liunx
 
 
+bootstrapå¤ä¹ 
+--å¾½ç«  badgeï¼ˆfï¼‰
+--listï¼ˆfï¼‰
+--å“åº”å¼åµŒå…¥å†…å®¹ï¼ˆfï¼‰ embed
+--é¢æ¿ï¼ˆfï¼‰
+--åˆ†é¡µï¼ˆfï¼‰
+--è¿›åº¦æ¡ï¼ˆfï¼‰
+--åª’ä½“å¯¹è±¡åˆ—è¡¨ï¼ˆfï¼‰
+--wellï¼ˆfï¼‰
+--è­¦å‘Šæ¡†ï¼ˆfï¼‰
+--ç¼©ç•¥å›¾ï¼ˆfï¼‰
+--è·¯å¾„å¯¼èˆªï¼ˆfï¼‰
 
-ÉÏ´«github
+jsçš„mapä¿®æ”¹ï¼ˆfï¼‰
 
 
 
-AndroidÀëÏß¿ª·¢£¨maven¿â¿ª·¢£©
+ä¸Šä¼ github
+
+
+
+Androidç¦»çº¿å¼€å‘ï¼ˆmavenåº“å¼€å‘ï¼‰
 
 WLPRO
 
-Ñ§Ï°PHP
+å­¦ä¹ PHP
 
-ÑĞ¾¿springboot
+ç ”ç©¶springboot
 
 nio
 
@@ -45,42 +45,40 @@ liunx
 mysql
 
 
-springÇĞÃæ±à³Ì
+springåˆ‡é¢ç¼–ç¨‹
 
-ÁË½âmybatis¡¾·ÀÖ¹spÓÃmybatis¡¿
+äº†è§£mybatisã€é˜²æ­¢spç”¨mybatisã€‘
 
 
 
 /*************************************************************************/
-·­Ç½
-¶ÍÁ¶ÒµÎñÀí½âÄÜÁ¦
+ç¿»å¢™
+é”»ç‚¼ä¸šåŠ¡ç†è§£èƒ½åŠ›
 
-git svnÊ¹ÓÃ
+git svnä½¿ç”¨
 
  + (Math.random() * 1000 | 0)
-content: 'ÄÚÈİ' + (Math.random() * 1000 | 0),
+content: 'å†…å®¹' + (Math.random() * 1000 | 0),
 
 
 
-»¨Éú¿Ç+svn·şÎñÆ÷¡¾ping³É¹¦ºó£¬¿ÉÒÔ½«¹«Ë¾µçÄÔÉÏ»ıÀÛµÄ¶«Î÷ÉÏ´«svn£¬ÔÙ¼ÒÀï½øĞĞ±È¶Ô
-java--×¢½â[×Ô¶¨Òå]
+èŠ±ç”Ÿå£³+svnæœåŠ¡å™¨ã€pingæˆåŠŸåï¼Œå¯ä»¥å°†å…¬å¸ç”µè„‘ä¸Šç§¯ç´¯çš„ä¸œè¥¿ä¸Šä¼ svnï¼Œå†å®¶é‡Œè¿›è¡Œæ¯”å¯¹
+java--æ³¨è§£[è‡ªå®šä¹‰]
 http://blog.csdn.net/hbcui1984/article/details/4735487
 
 
 
 
-ÊìÏ¤ÒµÎñĞèÇó£¨w£©
+ç†Ÿæ‚‰ä¸šåŠ¡éœ€æ±‚ï¼ˆwï¼‰
 
 
 
 /*************************toget*******************************/
-·Ö²¼Ê½
+åˆ†å¸ƒå¼
 
-ÍøÂçDNS+×ÓÍøÑÚÂë
+ç½‘ç»œDNS+å­ç½‘æ©ç 
 
-¸´Ï°oracle
-
-
+å¤ä¹ oracle
 
 
 
@@ -107,7 +105,9 @@ http://blog.csdn.net/hbcui1984/article/details/4735487
 
 
 
-Ñ§Ï°spring  18¼¯
+
+
+å­¦ä¹ spring  18é›†
 
 
 
@@ -140,7 +140,7 @@ http://blog.csdn.net/hbcui1984/article/details/4735487
 
 egret
 
-ÈÈ²¿Êğ
+çƒ­éƒ¨ç½²
 jrebel
 
 	
@@ -157,24 +157,24 @@ jrebel
 	width: 100px
 } */
 
-ĞèÇó£ºandroid É¨Í¼Æ¬£¬¶ÁÎÄ×Ö
+éœ€æ±‚ï¼šandroid æ‰«å›¾ç‰‡ï¼Œè¯»æ–‡å­—
 
 contentType:'application/json;charset=utf-8',
 
-Ïë·¨£º½«×Ô¼ºÑ§Ï°+×Ü½áµÄ¶«Î÷£¬´´½¨³ÉÒ»¸öÍøÕ¾
-¼Ü¹¹£º
-sql£ºmysql
+æƒ³æ³•ï¼šå°†è‡ªå·±å­¦ä¹ +æ€»ç»“çš„ä¸œè¥¿ï¼Œåˆ›å»ºæˆä¸€ä¸ªç½‘ç«™
+æ¶æ„ï¼š
+sqlï¼šmysql
 =======================================================================
 
-SprignMVC+MybatisÑ§Ï°µ½day2
-Ñ§Ï°µ½day2
+SprignMVC+Mybatiså­¦ä¹ åˆ°day2
+å­¦ä¹ åˆ°day2
  
-ectdĞèÇó£º
+ectdéœ€æ±‚ï¼š
 ectd@192.168.16.208:1521/orcl
 
 
 
-¿ÉÒÔÊ¹ÓÃBASE64±àÂë¸ñÊ½
+å¯ä»¥ä½¿ç”¨BASE64ç¼–ç æ ¼å¼
 
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot">
 
@@ -184,20 +184,20 @@ ectd@192.168.16.208:1521/orcl
 session.setAttribute("rand" , sRand);
 
 
-Ê¹ÓÃajaxÏÔÊ¾Á÷ÀïÃæµÄÑéÖ¤Âë
+ä½¿ç”¨ajaxæ˜¾ç¤ºæµé‡Œé¢çš„éªŒè¯ç 
 
 
-ĞÄÌø
-ĞÄÌø°üÔ­Àí£º
+å¿ƒè·³
+å¿ƒè·³åŒ…åŸç†ï¼š
 http://blog.csdn.net/bless2015/article/details/52680220
 
 
-ÑĞ¾¿À¶ÑÀ
+ç ”ç©¶è“ç‰™
 
-Android¿ª·¢/°²×¿/NDK/¼Ü¹¹/React Native/ĞÔÄÜÓÅ»¯
-Ñ§Ï°h5¿ò¼Ü---¡·¿ª·¢ios
+Androidå¼€å‘/å®‰å“/NDK/æ¶æ„/React Native/æ€§èƒ½ä¼˜åŒ–
+å­¦ä¹ h5æ¡†æ¶---ã€‹å¼€å‘ios
 
-·´¹ıÀ´£¬ÊÖ»ú¼à¿ØµçÄÔ
+åè¿‡æ¥ï¼Œæ‰‹æœºç›‘æ§ç”µè„‘
 http://download.csdn.net/detail/zhangamxqun/7885321
 
 
@@ -209,28 +209,26 @@ http://bbs.csdn.net/topics/390713163
 
 
 
-¹¹Ôì×Ô¼ºµÄÍøÕ¾
+æ„é€ è‡ªå·±çš„ç½‘ç«™
 
 http://bbs.csdn.net/topics/390906440
 
 
-ÄãÃÇ½âÎöhtmlÄÚÈİ ÓÃÊ²Ã´ ¿â
+ä½ ä»¬è§£æhtmlå†…å®¹ ç”¨ä»€ä¹ˆ åº“
 jsoup
 
 
-»ìÏı´úÂë£¬ÕÒ»ìÏı¹æÔò
+æ··æ·†ä»£ç ï¼Œæ‰¾æ··æ·†è§„åˆ™
 
-°ÑÀ¶ÑÀ±à³Ì£¬µ±³ÉÊı¾İ¿â±à³Ì
-
-
-Ñ§Ï°mvp¿ª·¢Ä£Ê½
-
-·Ö°ü
+æŠŠè“ç‰™ç¼–ç¨‹ï¼Œå½“æˆæ•°æ®åº“ç¼–ç¨‹
 
 
-¼ÌĞø²ËÄñ½Ì³Ì Ê£ÏÂh5µÄ²¿·Ö
+å­¦ä¹ mvpå¼€å‘æ¨¡å¼
+
+åˆ†åŒ…
 
 
+ç»§ç»­èœé¸Ÿæ•™ç¨‹ å‰©ä¸‹h5çš„éƒ¨åˆ†
 
 
 
@@ -240,13 +238,15 @@ jsoup
 
 
 
-×Ô¶¨Òå²¼¾Ö
+
+
+è‡ªå®šä¹‰å¸ƒå±€
 
 ------------------------------------------------------------------------------------------------------------->
 
 
-swift½Ì³Ì£º
-http://www.runoob.com/swift/swift-tutorial.html£¨Ñ§µ½ÏÂ±í½Å±¾£©
+swiftæ•™ç¨‹ï¼š
+http://www.runoob.com/swift/swift-tutorial.htmlï¼ˆå­¦åˆ°ä¸‹è¡¨è„šæœ¬ï¼‰
 
 
 
@@ -254,38 +254,38 @@ http://www.runoob.com/swift/swift-tutorial.html£¨Ñ§µ½ÏÂ±í½Å±¾£©
 
 
 
-2.»ìÏı´úÂë
+2.æ··æ·†ä»£ç 
 http://blog.csdn.net/h183288132/article/details/50622976
 
 
 
 
-------------------------------------------------------------------------------------------¡·
-ĞãÔ´Âë
+------------------------------------------------------------------------------------------ã€‹
+ç§€æºç 
 
-ÌÚÑ¶Òì³£²¶»ñ
+è…¾è®¯å¼‚å¸¸æ•è·
 https://bugly.qq.com/v2/workbench/create/517205848
 
-MeLiveActvity---¡·µ¯³ö¹ö¶¯view
+MeLiveActvity---ã€‹å¼¹å‡ºæ»šåŠ¨view
 
 classpath 'com.android.tools.build:gradle:1.5.0'
 
-Ñ§Ï°
+å­¦ä¹ 
 http://www.open-open.com/lib/view/open1450669570792.html
 
 
 
 
-svn£º
+svnï¼š
 https://192.168.20.208/svn/SYGSAPP
 wangj
 wangj
 
 
 
-¹«Ë¾Íø
+å…¬å¸ç½‘
 http://www.taxsoftware.com.cn/TSERP/
-ÕËºÅWJ1ÃÜÂë1
+è´¦å·WJ1å¯†ç 1
 
 
 
@@ -293,83 +293,83 @@ classpath 'com.android.tools.build:gradle:1.5.0'
 distributionUrl=https\://services.gradle.org/distributions/gradle-2.10-all.zip
 
 
-       °²×¿Ô´Âë·şÎñ×¨¼Ò       ¨U
-  ¨X¨T¨T¨T¨T¨T¨T¨g©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨d¨T¨T¨T¨T¨T¨T¨[
-  ¨U            ¨U    http://www.javaapk.com 
+       å®‰å“æºç æœåŠ¡ä¸“å®¶       â•‘
+  â•”â•â•â•â•â•â•â•£â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â• â•â•â•â•â•â•â•—
+  â•‘            â•‘    http://www.javaapk.com 
 
-Ö÷·Ö±æÂÊ£º1280*720
+ä¸»åˆ†è¾¨ç‡ï¼š1280*720
 
-sha1£º
+sha1ï¼š
 70:D7:E1:88:96:50:32:4B:CD:A8:59:9B:70:93:07:C2:52:C6:76:BE
 
 
-wjcsdnÒ¦°à³¤
+wjcsdnå§šç­é•¿
 396356728@qq.com    yaorenhong123
 
  style="?android:attr/progressBarStyleHorizontal"
 
 
 adobe dw
-ÃÜÂë£ºWANGJIE123s
+å¯†ç ï¼šWANGJIE123s
 
-ÅóÓÑ ÄãºÃ ½ñÌì¹ä²©¿Í Å¼È»·¢ÏÖhongyang´óÉñÒ²Ğ´ÁË¸öĞŞ¸ÄÖ÷ÌâµÄdemo£¬Äã¿ÉÒÔ¿´ÏÂ
+æœ‹å‹ ä½ å¥½ ä»Šå¤©é€›åšå®¢ å¶ç„¶å‘ç°hongyangå¤§ç¥ä¹Ÿå†™äº†ä¸ªä¿®æ”¹ä¸»é¢˜çš„demoï¼Œä½ å¯ä»¥çœ‹ä¸‹
 https://github.com/hongyangAndroid/ChangeSkin
 
-//ĞòÁĞ»¯±íµ¥ÔªËØ£¬·µ»ØjsonÊı¾İ  
+//åºåˆ—åŒ–è¡¨å•å…ƒç´ ï¼Œè¿”å›jsonæ•°æ®  
 var params = $("#userForm").serializeArray();  
 
-SpringMVCÉÏ´«ÎÄ¼ş£º
-ÕÔìÏ:
+SpringMVCä¸Šä¼ æ–‡ä»¶ï¼š
+èµµç…œ:
 http://www.cnblogs.com/fjsnail/p/3491033.html
-ÕÔìÏ:
-ÉÏ´«Ê²Ã´µÄ¾ÍÓÃspringmvc×Ô´øµÄ°É~
+èµµç…œ:
+ä¸Šä¼ ä»€ä¹ˆçš„å°±ç”¨springmvcè‡ªå¸¦çš„å§~
 
 
 
-¸÷²¿ÃÅÁìµ¼¼°¸÷Î»Í¬ÊÂ£¬´Ó4ÔÂ¿ªÊ¼£¬ËùÓĞÔ±¹¤µÄ¼Ó°àÉêÇë£¨º¬ÊÔÓÃÆÚÔ±¹¤£©Ò»ÂÉÔÚOAÉÏÌîĞ´Ìá³ö£¬
-ÈËÊÂ²¿½«È¡ÏûÖ½ÖÊµ¥¾İ£¬Çë´ó¼Ò¹Ø×¢£¡Í¬Ê±ÔÙ´ÎÌáĞÑ´ó¼Ò£¬ÎªÁË±£Ö¤¿¼ÇÚÊı¾İµÄ×¼È·ĞÔ£¬
-¼Ó°àĞÅÏ¢ĞèÔ±¹¤±¾ÈË¼°Æä×é³¤Í¬Ê±ÔÚOAÀïÌîĞ´£¬ÕâÑùÏµÍ³²Å»áÓĞÓĞĞ§Êı¾İ£¬
-Çë¸÷Î»×é³¤Îñ±ØÔÚÃ¿ÔÂ10ÈÕÇ°¼°Ê±¼ì²éÉÏ¸öÔÂ²¿ÃÅÔ±¹¤¼Ó°àĞÅÏ¢²¢ÉóºË£¬Ğ»Ğ»ÅäºÏ£¡
+å„éƒ¨é—¨é¢†å¯¼åŠå„ä½åŒäº‹ï¼Œä»4æœˆå¼€å§‹ï¼Œæ‰€æœ‰å‘˜å·¥çš„åŠ ç­ç”³è¯·ï¼ˆå«è¯•ç”¨æœŸå‘˜å·¥ï¼‰ä¸€å¾‹åœ¨OAä¸Šå¡«å†™æå‡ºï¼Œ
+äººäº‹éƒ¨å°†å–æ¶ˆçº¸è´¨å•æ®ï¼Œè¯·å¤§å®¶å…³æ³¨ï¼åŒæ—¶å†æ¬¡æé†’å¤§å®¶ï¼Œä¸ºäº†ä¿è¯è€ƒå‹¤æ•°æ®çš„å‡†ç¡®æ€§ï¼Œ
+åŠ ç­ä¿¡æ¯éœ€å‘˜å·¥æœ¬äººåŠå…¶ç»„é•¿åŒæ—¶åœ¨OAé‡Œå¡«å†™ï¼Œè¿™æ ·ç³»ç»Ÿæ‰ä¼šæœ‰æœ‰æ•ˆæ•°æ®ï¼Œ
+è¯·å„ä½ç»„é•¿åŠ¡å¿…åœ¨æ¯æœˆ10æ—¥å‰åŠæ—¶æ£€æŸ¥ä¸Šä¸ªæœˆéƒ¨é—¨å‘˜å·¥åŠ ç­ä¿¡æ¯å¹¶å®¡æ ¸ï¼Œè°¢è°¢é…åˆï¼
 
 
 3argexb63ulze
 
 
-Ç®ÌÚ·É
+é’±è…¾é£
 13182743412
 qtf1992
 
-oaÏîÄ¿£º
+oaé¡¹ç›®ï¼š
 https://192.168.16.208/svn/TSOA/trunk
 
 
-ÌìÑÛ²é
+å¤©çœ¼æŸ¥
 https://192.168.16.208/svn/NSCT/trunk
 com.tsoft.nsct.nsctapp
 
 
-postmanÕËºÅ£º
+postmanè´¦å·ï¼š
 wangshengjie
 
   
   select t.ffilename
-  ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=1) as num101 --Ñ¡°¸
+  ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=1) as num101 --é€‰æ¡ˆ
    ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
-            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=1)  num102 --Ñ¡°¸ÒÑÑ¡ÖĞÊıÁ¿
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=1)  num102 --é€‰æ¡ˆå·²é€‰ä¸­æ•°é‡
             
-      ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=2) as num201 --»ü²é
+      ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=2) as num201 --ç¨½æŸ¥
    ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
-            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=2)  num202 --»ü²éÒÑÑ¡ÖĞÊıÁ¿
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=2)  num202 --ç¨½æŸ¥å·²é€‰ä¸­æ•°é‡
             
             
-          ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=3) as num301 --ÉóÀí
+          ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=3) as num301 --å®¡ç†
    ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
-            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=3)  num302 --ÉóÀíÒÑÑ¡ÖĞÊıÁ¿
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=3)  num302 --å®¡ç†å·²é€‰ä¸­æ•°é‡
             
             
-              ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=4) as num401 --Ö´ĞĞ
+              ,(select count(*) from p_auxinfo where p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=4) as num401 --æ‰§è¡Œ
    ,(select count(*) from t_evidencetype inner join p_auxinfo on t_evidencetype.fauxcode2=p_auxinfo.fcode  
-            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=4)  num402 --Ö´ĞĞÒÑÑ¡ÖĞÊıÁ¿            
+            where t_evidencetype.fcaseid=t.fcaseid and t_evidencetype.fevidenceid=t.fid and  p_auxinfo.fauxtype=5 and  p_auxinfo.fparent=4)  num402 --æ‰§è¡Œå·²é€‰ä¸­æ•°é‡            
             
    from T_EVIDENCE  t
   where t.fcaseid=6
@@ -380,26 +380,26 @@ wangshengjie
 
   
 S_DEPARTMENT
-//		{FONLINEPWD=, FPASSWORD=C4:CA:42:38:A0:B9:23:82:0D:CC:50:9A:6F:75:84:9B, FCODE=ZS01, FLOGINCODE=ZS01, FMOBILE=, FDATARANGE=1, FISSTOP=0, FNAME=ÕÅÈı, FDEPTCODE=1, FORGCODE=1}
+//		{FONLINEPWD=, FPASSWORD=C4:CA:42:38:A0:B9:23:82:0D:CC:50:9A:6F:75:84:9B, FCODE=ZS01, FLOGINCODE=ZS01, FMOBILE=, FDATARANGE=1, FISSTOP=0, FNAME=å¼ ä¸‰, FDEPTCODE=1, FORGCODE=1}
   
 ECTD:
 https://192.168.16.208/svn/ECTD/TsFrame
 
 
-¹«Ë¾ÓÊÏäÃÜÂë£º
+å…¬å¸é‚®ç®±å¯†ç ï¼š
 1234@abc
-wangjie@taxsoft.cn  ÓÊÏäÃÜÂëÊÇ1234@abc
+wangjie@taxsoft.cn  é‚®ç®±å¯†ç æ˜¯1234@abc
 
-CETD²éÑ¯ÀàĞÍ£º
+CETDæŸ¥è¯¢ç±»å‹ï¼š
 select * from p_auxtype;
 
 
-ĞÂµÄi8',
+æ–°çš„i8',
 
-ajax£º
+ajaxï¼š
 contentType:'application/json;charset=utf-8',
 
-ectdoracle£º
+ectdoracleï¼š
 ectd
 ected
 192.168.20.208:1521/orcl
@@ -410,9 +410,9 @@ Normal
 USER-20170216-4
 
 
-86ºÅ£º
+86å·ï¼š
 
-B3 SVN£º
+B3 SVNï¼š
 https://192.168.20.208/svn/B3_APP/B3App
 
 wjoracle:
@@ -421,26 +421,26 @@ scott
 tiger
 
 
-wjectdÓÃµ½µÄtable£º
-S_CASE £»
+wjectdç”¨åˆ°çš„tableï¼š
+S_CASE ï¼›
 p_auxinfo
 p_auxtype
-T_EVIDENCETYPE£ºÖ¤¾İ»·½Ú
+T_EVIDENCETYPEï¼šè¯æ®ç¯èŠ‚
 T_EVIDENCE
 s_model
 
 
 at 23:00 shutdown -s
 
-bug¹ÜÀí£º
+bugç®¡ç†ï¼š
 http://192.168.20.205:8088
-ÕâÊÇJIRA ÍâÍø·ÃÎÊµØÖ·£¬Á¬¹«Ë¾wifi ¾ÍÄÜ·ÃÎÊ£¬×îºÃÓÃ¹È¸èä¯ÀÀÆ÷
-ÍõÏÈÉú 2017/6/26 10:21:36
-ºÃ£¡
+è¿™æ˜¯JIRA å¤–ç½‘è®¿é—®åœ°å€ï¼Œè¿å…¬å¸wifi å°±èƒ½è®¿é—®ï¼Œæœ€å¥½ç”¨è°·æ­Œæµè§ˆå™¨
+ç‹å…ˆç”Ÿ 2017/6/26 10:21:36
+å¥½ï¼
 Caim 2017/6/26 10:21:42
-ÄãµÄÓÃ»§Ãû wangjie ÃÜÂë wangjie
+ä½ çš„ç”¨æˆ·å wangjie å¯†ç  wangjie
 
 
-ÊÇµÄ£¬ÒòÎªÊÇ×¨°æ£¬ËùÒÔÃ»ÓĞÁí¿ªĞÂÏîÄ¿£¬¶¼ÓÃÓ°Ïì°æ±¾µÄ°æ±¾ºÅÇø·Ö
-ºó×ºÓĞ¡°_SH¡±µÄ£¬¾ÍÊÇECTD
+æ˜¯çš„ï¼Œå› ä¸ºæ˜¯ä¸“ç‰ˆï¼Œæ‰€ä»¥æ²¡æœ‰å¦å¼€æ–°é¡¹ç›®ï¼Œéƒ½ç”¨å½±å“ç‰ˆæœ¬çš„ç‰ˆæœ¬å·åŒºåˆ†
+åç¼€æœ‰â€œ_SHâ€çš„ï¼Œå°±æ˜¯ECTD
 
